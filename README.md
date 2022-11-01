@@ -1,6 +1,8 @@
 # VerHor
 An AI based game. Uses min max pruning algorithm to detect the turn of the computer.
 
+Used Programming Language: Python
+
 There are 2 mode of playing: 1) Play with 2 players and 2) Play with AI
 
 The game starts with a toss. The winner of the toss has the right to turn first. The player who is unable to place a move/turn loses the game.
