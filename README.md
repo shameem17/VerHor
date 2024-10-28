@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/AI-python-red)]
+![](https://img.shields.io/badge/AI-python-red)
 # VerHor
 
 An AI-based game. Uses min max pruning algorithm to detect the turn of the computer.
