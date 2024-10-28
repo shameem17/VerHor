@@ -1,5 +1,7 @@
+[![](https://img.shields.io/badge/AI-python-red)]
 # VerHor
-An AI based game. Uses min max pruning algorithm to detect the turn of the computer.
+
+An AI-based game. Uses min max pruning algorithm to detect the turn of the computer.
 
 Used Programming Language: Python
 
@@ -9,12 +11,12 @@ The game starts with a toss. The winner of the toss has the right to turn first.
 
 If a player got vertical in toss then he can fill up vertical cells and horizontal cell is he got horizontal in the toss.
 
-The min max algorithm here determines the optimum path to win the game.
+The min-max algorithm here determines the optimum path to win the game.
 
-There is also a random turn. Any player can take the help of AI to place the best possible turn at any situation which is possible for the AI algorithm used here.
+There is also a random turn. Any player can take the help of AI to place the best possible turn in any situation which is possible for the AI algorithm used here.
 
 Command to play the game: verhor_game_gui.py row col
-Place this command in the CMD to the file containing directory. 
+Place this command in the CMD to the file containing the directory. 
 
 The UI is given below: 
 
